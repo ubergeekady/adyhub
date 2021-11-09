@@ -5,6 +5,13 @@
       <div class="[ intro__summary ] [ sf-flow ] [ leading-mid measure-short ]">{{ introSummary | safe }}</div>
     {% endif %}
 
-    xx
+              <ul class="[ nav__list ] [ box-flex align-center pad-left-400 ] [ p-category ]">
+                {% for item in tags %}
+                  <li class="nav__item">
+                    <a href="/tags/{{ item }}">{{ item }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+
   </div>
 </header>

@@ -7,4 +7,4 @@ metaDesc: 'Bloghead'
 socialImage: ''
 ---
 
-My thoughts on topics of my interest.
+Random Notes.
