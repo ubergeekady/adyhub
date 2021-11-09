@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome To My Blog
+title: AdyHub
 postsHeading: Latest posts
 archiveButtonText: See all posts
 metaDesc: 'Bloghead'

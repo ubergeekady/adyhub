@@ -14,12 +14,6 @@
       "text": "About Me",
       "url": "/about",
       "external": false
-    },
-     {
-      "text": "Tags",
-      "url": "/tags",
-      "external": false
     }
-
   ]
 }
