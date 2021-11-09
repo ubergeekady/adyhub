@@ -9,6 +9,11 @@
       "text": "Contact Me",
       "url": "/contact",
       "external": false
+    },
+   {
+      "text": "About Me",
+      "url": "/about",
+      "external": false
     }
   ]
 }
