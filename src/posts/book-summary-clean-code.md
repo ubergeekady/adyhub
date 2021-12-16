@@ -1,6 +1,6 @@
 ---
 date: 2021-09-15
-title: Book Insights \: Clean Code - A Handbook of Agile Software Craftsmanship
+title: Book Insights | Clean Code - A Handbook of Agile Software Craftsmanship
 tags: [books]
 image: "/images/clncod.jpg"
 
