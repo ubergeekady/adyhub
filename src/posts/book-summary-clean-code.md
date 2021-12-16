@@ -1,7 +1,7 @@
 ---
 date: 2021-09-15
 title: Book Summary - Clean Code
-tags: []
+tags: [books]
 image: "/images/clncod.jpg"
 
 ---
