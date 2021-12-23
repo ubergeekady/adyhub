@@ -43,11 +43,11 @@ image: "/images/clncod.jpg"
 
 - Manager tip - 
 
-- - **Add more staff** for tech debt - **no**!
-  - **Remember -** Productivity vs time
-  - **What to do -** Review code more to practice the craft! Managers and marketers need devs help to make correct promises and commitments - Stupid manager.
-  - **When** should we clean - all the time! E.g. Broken window of a house.
-  - Imagine a world where code always gets better with time :) One small action at a time! **Boy Scout rule** - *leave the campground cleaner than you found it.* 
+- - Add more staff for tech debt - no!
+  - Remember - Productivity vs time
+  - What to do - Review code more to practice the craft! Managers and marketers need devs help to make correct promises and commitments - Stupid manager.
+  - When should we clean - all the time! E.g. Broken window of a house.
+  - Imagine a world where code always gets better with time :) One small action at a time! Boy Scout rule - *leave the campground cleaner than you found it.* 
      		***“Leave your code base cleaner than you found it”\***.
 
 - Insights - going fast on the long term is possible with writing clean code all the time, practice the craft and learn from it and have the attitude of a PRO always for the work you do!
