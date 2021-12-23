@@ -2,14 +2,14 @@
 date: 2021-09-24
 title: Book Insights | An Elegant Puzzle - Systems Of Engineering Management
 tags: [books]
-image: "/images/elegantpuzle.jpg"
+image: "/images/elegantpuzzle.jpg"
 
 ---
 **Book** : [An Elegant Puzzle - Systems Of Engineering Management](https://www.amazon.in/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)
 
 **Author** : [Will Larson]
 
-![](/images/elegantpuzle.jpeg)
+![](/images/elegantpuzzle.jpeg)
 
 ### Introduction
 
