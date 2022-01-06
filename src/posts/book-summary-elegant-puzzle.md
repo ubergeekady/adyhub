@@ -28,7 +28,7 @@ image: "/images/elegantpuzzle.jpg"
 
 Should my friend spread hiring equally across the teams in need, or focus hiring on just one or two teams until their needs are fully staffed? That is the question.
 
-- **Four states of a team**
+- **Four states of a team1**
   - A team is falling behind if each week their backlog is longer than it was the week before.
   - A team is treading water if they’re able to get their critical work done, but are not able to start paying down technical debt or begin major new projects.
   - A team is repaying debt when they’re able to start paying down technical debt, and are beginning to benefit from the debt repayment snowball: each piece of debt you repay leads to more time to repay more debt.
