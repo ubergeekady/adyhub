@@ -1,6 +1,6 @@
 ---
 date: 2021-10-10
-title: Best Books
+title: My Fav Books
 tags: [books]
 image: "/images/elegantpuzzle.jpg"
 
