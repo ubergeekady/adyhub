@@ -8,9 +8,6 @@ image: "/images/refactoring.jpeg"
 > "Whenever you read [Refactoring ], it’s time to read it again. And if you haven’t read it yet, please do before writing another line of code."
 > –David Heinemeier Hansson, Creator of Ruby on Rails, Founder & CTO at Basecamp
 
-
-> Fully Revised and Updated―Includes New Refactorings and Code Examples
-> 
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 > –M. Fowler (1999)
 
