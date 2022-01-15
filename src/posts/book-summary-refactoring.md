@@ -2,9 +2,19 @@
 date: 2021-10-10
 title: Book Insights | Refactoring - Improving the Design of Existing Code - Code Smells
 tags: [books]
-image: "/images/elegantpuzzle.jpg"
+image: "/images/refactoring.jpeg"
 
 ---
+> "Whenever you read [Refactoring ], it’s time to read it again. And if you haven’t read it yet, please do before writing another line of code."
+> –David Heinemeier Hansson, Creator of Ruby on Rails, Founder & CTO at Basecamp
+
+
+> Fully Revised and Updated―Includes New Refactorings and Code Examples
+> 
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+> –M. Fowler (1999)
+
+![](/images/refactoring.jpeg)
 
 Refactoring makes code understandable and easy to extend. Refactoring makes it quicker to create complicated systems. You remove excess code so it is easier to understand & modify. By refactoring code you can better understand others code. You eliminate the having to remember what old code does. You can write code quicker
 
