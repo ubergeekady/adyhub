@@ -9,8 +9,12 @@ Hello. I am Aditya Singh. I am a programming geek and entrepreneur based out of 
 I have created this blog to share my notes and learnings which might be of use to others.
 
 IT Skills:
-Languages : Py, JS, Go, Java, C++, 
+
+Languages : Py, JS, Go, Java, C++, C, Asm,
+
 Frameworks : Django, React, Vue, Flask etc.
+
 Other Skills : Refactoring, Software Architecture, Cloud Platforms, Devops, Scaling, Engineering Leadership, Product Management
+
 
 Thanks.
