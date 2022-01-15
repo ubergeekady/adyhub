@@ -1,6 +1,6 @@
 ---
 date: 2021-10-10
-title: Book Insights : Refactoring - Improving the Design of Existing Code
+title: Book Insights | Refactoring - Improving the Design of Existing Code
 tags: [books]
 image: "/images/elegantpuzzle.jpg"
 
