@@ -4,8 +4,13 @@ permalink: '/about/index.html'
 layout: 'layouts/page.njk'
 ---
 
-Hello. I am Aditya Singh. I am a programming geek based out of Delhi. I have been a startup founder once and have completed many web technology projects on multiple languages / frameworks / cloud platforms. I am a tech autodidact and have been on the scene since i was 10.
+Hello. I am Aditya Singh. I am a programming geek and entrepreneur based out of Delhi. I have been a startup founder once and have completed many web technology projects on multiple languages / frameworks / cloud platforms. I am a tech autodidact and have been on the scene since i was 10.
 
-I have created this blog to share my notes and learnings which might be of use to other enthusiasts.
+I have created this blog to share my notes and learnings which might be of use to others.
+
+IT Skills:
+Languages : Py, JS, Go, Java, C++, 
+Frameworks : Django, React, Vue, Flask etc.
+Other Skills : Refactoring, Software Architecture, Cloud Platforms, Devops, Scaling, Engineering Leadership, Product Management
 
 Thanks.

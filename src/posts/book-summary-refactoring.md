@@ -1,10 +1,12 @@
 ---
 date: 2021-10-10
-title: Book Insights | Refactoring - Improving the Design of Existing Code
+title: Book Insights : Refactoring - Improving the Design of Existing Code
 tags: [books]
 image: "/images/elegantpuzzle.jpg"
 
 ---
+
+Refactoring makes code understandable and easy to extend. Refactoring makes it quicker to create complicated systems. You remove excess code so it is easier to understand & modify. By refactoring code you can better understand others code. You eliminate the having to remember what old code does. You can write code quicker
 
 1. Duplicated code - Same code structure in more than one place.
 
