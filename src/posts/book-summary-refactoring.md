@@ -17,7 +17,7 @@ Refactoring makes code understandable and easy to extend. Refactoring makes it q
 
 Code smells are key signs that refactoring is necessary. In theprocess of refactoring, we get rid of smells, enabling furtherdevelopment of the application with equal or greater speed. The lack of regular refactoring, can lead to a complete paralysisof a project over time, wasting a few years of developmentand requiring you to spend several more years to rewriteit from scratch.Therefore, it is necessary to get rid of code smells while they are still small.
 
-### Long Method
+###1.  Long Method
 
 A method contains too many lines of code. Generally, any method longer than ten lines should make you start asking questions. Like the Hotel California, something is always being added to a method but nothing is ever taken out. Since it’s easier to write code than to read it, this “smell” remains unnoticed until the method turns into an ugly, oversized beast. Mentally, it’s often harder to create a new method than to add to an existing one: “But it’s just two lines, there’s no use in creating a whole method just for that...” Which means that another line is added and then yet another, giving birth to a tangle of spaghetti code.
 
