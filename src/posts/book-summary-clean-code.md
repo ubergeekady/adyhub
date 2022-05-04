@@ -55,8 +55,8 @@ image: "/images/clncod.jpg"
 ### Chapter 2 - Naming
 
 - Name should tell the intent why it exists, what it does and how to use it E.g. good name would be **employeePyamentInfo** vs **ePay**
-- Avoid confusing names -  I.e. using names that already imply something! E.g. naming something **unix**, **testList** (even if it not a list). Choose clear names - I.e. Say what you mean and mean what you say. E.g. **deleteItems** over **bustThemDown**, **kill** over **whack**
-- Use good Distinctions.  Avoid using number at end! Use distinctions that make sense and thus don't just use numbers
+- Avoid confusing names - I.e. using names that already imply something! E.g. naming something **unix**, **testList** (even if it not a list). Choose clear names - I.e. Say what you mean and mean what you say. E.g. **deleteItems** over **bustThemDown**, **kill** over **whack**
+- Use good Distinctions. Avoid using number at end! Use distinctions that make sense and thus don't just use numbers
   E.g. **list1**, **list2**, instead - **productIds**, **productDetails** etc
   E.g. using **productInfo** and **productDetails** - means same and distinction is harder between these two variables.
 - Use pronounceable names.  Programming is a social activity
