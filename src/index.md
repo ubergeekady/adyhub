@@ -1,6 +1,6 @@
 ---
 layout: home
-title: AdyHub
+title: Ubergeekady
 postsHeading: Latest posts
 archiveButtonText: See all posts
 metaDesc: 'Bloghead'
