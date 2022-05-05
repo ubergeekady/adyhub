@@ -10,8 +10,6 @@ Hello. I am Aditya Singh. I am a programming geek and entrepreneur based out of 
 
 I have created this blog to share my notes and learnings which might be of use to others.
 
-IT Skills:
-
 I have worked with startups and built over 15+ full stack tech products. Worked on many ideas and projects. Technology freak since i was 10y-old. Earlier, I ran an ad-tech startup. Interested in broad range of topics. Management, Economics, Psychology, Entrepreneurship. Let me know how can i help you.
 
 Backend Development : .NET, Java, PHP, Laravel, Python, Django, Flask, FastAPI, Node, Express, Go, Serverless
